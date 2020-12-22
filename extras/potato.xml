@@ -52,7 +52,7 @@
   <project name="hardware_qcom_sdm845_media"              path="hardware/qcom/sdm845/media"               remote="potato" />
   <project name="hardware_ril"                            path="hardware/ril"                             remote="potato" />
   <project name="packages_apps_DeskClock"                 path="packages/apps/DeskClock"                  remote="potato" />
-  <project name="packages_apps_Dialer"                    path="packages/apps/Dialer"                     remote="potato" />
+  <project name="WrathOS_android_packages_apps_Dialer"    path="packages/apps/Dialer"                     remote="tamplan" revision= "ten" />
   <project name="packages_apps_Launcher3"                 path="packages/apps/Launcher3"                  remote="potato" />
   <project name="packages_apps_Messaging"                 path="packages/apps/Messaging"                  remote="potato" />
   <project name="packages_apps_Nfc"                       path="packages/apps/Nfc"                        remote="potato" />

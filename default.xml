@@ -6,6 +6,9 @@
   <remote name="gitlab"
           fetch="https://gitlab.com" />
 
+  <remote name="tamplan"
+          fetch="https://github.com/tamplan" />
+
   <remote name="potato"
           fetch="https://github.com/PotatoProject"
           revision="refs/heads/croquette-release" />
